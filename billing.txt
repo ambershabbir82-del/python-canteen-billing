@@ -1,0 +1,30 @@
+=== CAMPUS CANTEEN ===
+1. Tea - Rs 80
+2. Sandwich - Rs 250
+3. Juice - Rs 150
+4. Coffee - Rs 180
+0. Checkout
+Choose 1-4, or 0: 2
+Quantity: 3
+3 x Sandwich
+Line total: Rs 750
+Choose 1-4, or 0: 4
+Quantity: 2
+2 x Coffee
+Line total: Rs 360
+Choose 1-4, or 0: 3
+Quantity: 1
+1 x Juice
+Line total: Rs 150
+Choose 1-4, or 0: 1
+Quantity: 2  
+Line total: Rs 160
+Choose 1-4, or 0: 
+Invalid choice.
+Choose 1-4, or 0: 0
+
+--- YOUR BILL ---
+Items: 8
+Subtotal: Rs 1420
+Discount: Rs 142.0
+To pay: Rs 1278.0
